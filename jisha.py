@@ -1,0 +1,1 @@
+print("this is a samp0le file for Git")
